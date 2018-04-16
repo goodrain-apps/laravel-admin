@@ -12,7 +12,8 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0",
+        "ext-mbstring": "*",
+        "php": "7.1.16",
         "symfony/dom-crawler": "~3.1",
         "laravel/framework": "~5.5"
     },
